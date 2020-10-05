@@ -1,11 +1,5 @@
 <odoo>
   <data>
-      <tree string="Idea list">
-    <field name="name"/>
-    <field name="inventor_id"/>
-</tree>
-
-      
     <!-- explicit list view definition -->
 <!--
     <record model="ir.ui.view" id="openacademy.list">
